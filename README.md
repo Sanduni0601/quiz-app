@@ -13,30 +13,6 @@ This is a trivia game built with React, where the user answers multiple-choice q
 - **Money Pyramid**: Displays the money the user has earned based on their progress in the game.
 - **Result Screen**: Shows the user's total earnings at the end of the game.
 
-## Installation
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/trivia-game.git
-   ```
-
-2. Navigate into the project directory:
-   ```bash
-   cd trivia-game
-   ```
-
-3. Install the dependencies:
-   ```bash
-   npm install
-   ```
-
-4. Start the development server:
-   ```bash
-   npm start
-   ```
-
-   This will run the app at [http://localhost:3000](http://localhost:3000).
-
 ## Usage
 
 1. Open the app in your browser.
@@ -47,13 +23,13 @@ This is a trivia game built with React, where the user answers multiple-choice q
 ## Screenshots
 
 ### 1. Start Screen
-![Start Screen](./assets/1ss.png)
+![Start Screen](./my-app/src/assets/1ss.png)
 
 ### 2. Trivia Game with Timer
-![Trivia Game](./assets/2ss.png)
+![Trivia Game](./my-app/srcassets/2ss.png)
 
 ### 3. End Screen with Results
-![End Screen](./assets/3ss.png)
+![End Screen](./my-app/srcassets/3ss.png)
 
 ## Technologies Used
 
