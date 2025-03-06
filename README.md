@@ -26,10 +26,10 @@ This is a trivia game built with React, where the user answers multiple-choice q
 ![Start Screen](./my-app/src/assets/1ss.png)
 
 ### 2. Trivia Game with Timer
-![Trivia Game](./my-app/srcassets/2ss.png)
+![Trivia Game](./my-app/src/assets/2ss.png)
 
 ### 3. End Screen with Results
-![End Screen](./my-app/srcassets/3ss.png)
+![End Screen](./my-app/src/assets/3ss.png)
 
 ## Technologies Used
 
