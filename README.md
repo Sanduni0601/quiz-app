@@ -1,6 +1,5 @@
 Here's a template for your `README.md` file for the project, including placeholders for the output screenshots:
 
-```markdown
 # Trivia Game Project
 
 This is a trivia game built with React, where the user answers multiple-choice questions, and the game progresses with a timer. The project is structured using the MERN stack, and the game provides real-time feedback on correct and wrong answers.
